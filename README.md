@@ -1,5 +1,8 @@
 # Control-of-Relay-Using-IoT-controller
 
+# NAME: MUBARAK R
+# REG NO: 212224220066
+
 ##  AIM:
 To control the Relay using Arduino controller
 
@@ -54,14 +57,18 @@ void loop()
 ```
 
 ## CIRCUIT DIAGRAM:
-<img width="1046" height="725" alt="image" src="https://github.com/user-attachments/assets/dbd27a87-2948-43b6-907d-c6485e0ba85c" />
+<img width="886" height="618" alt="image" src="https://github.com/user-attachments/assets/ae922144-a9a0-4eee-944a-8ed7ed5570d9" />
+
 
 ## OUTPUT:
 ## LED OFF:
-<img width="741" height="517" alt="image" src="https://github.com/user-attachments/assets/295e4c43-5424-46dc-a974-b4cdf0f2d8cb" />
+<img width="811" height="612" alt="image" src="https://github.com/user-attachments/assets/0a9210c2-3de2-4103-9ca8-a722c28a547f" />
+
 
 ## LED ON:
-<img width="739" height="530" alt="image" src="https://github.com/user-attachments/assets/92d96283-4842-4d2a-aa00-9ceb595ee714" />
+<img width="910" height="622" alt="image" src="https://github.com/user-attachments/assets/d7a520f1-866f-4ff1-a44e-a869168f6641" />
+
+
 
 ## RESULT:
 
